@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/bit-crud/static/css/main.c635cbb1.chunk.css",
+    "main.js": "/bit-crud/static/js/main.981fdf1e.chunk.js",
+    "main.js.map": "/bit-crud/static/js/main.981fdf1e.chunk.js.map",
+    "runtime-main.js": "/bit-crud/static/js/runtime-main.8f9b4141.js",
+    "runtime-main.js.map": "/bit-crud/static/js/runtime-main.8f9b4141.js.map",
+    "static/css/2.17e5ed98.chunk.css": "/bit-crud/static/css/2.17e5ed98.chunk.css",
+    "static/js/2.ac53087f.chunk.js": "/bit-crud/static/js/2.ac53087f.chunk.js",
+    "static/js/2.ac53087f.chunk.js.map": "/bit-crud/static/js/2.ac53087f.chunk.js.map",
+    "index.html": "/bit-crud/index.html",
+    "precache-manifest.f70b37146c7a9c590f31197ad4d27314.js": "/bit-crud/precache-manifest.f70b37146c7a9c590f31197ad4d27314.js",
+    "service-worker.js": "/bit-crud/service-worker.js",
+    "static/css/2.17e5ed98.chunk.css.map": "/bit-crud/static/css/2.17e5ed98.chunk.css.map",
+    "static/css/main.c635cbb1.chunk.css.map": "/bit-crud/static/css/main.c635cbb1.chunk.css.map",
+    "static/js/2.ac53087f.chunk.js.LICENSE": "/bit-crud/static/js/2.ac53087f.chunk.js.LICENSE",
+    "static/media/lock.jpg": "/bit-crud/static/media/lock.27a6b424.jpg",
+    "static/media/post.png": "/bit-crud/static/media/post.7084b68f.png",
+    "static/media/search.png": "/bit-crud/static/media/search.557480df.png",
+    "static/media/userLogo.png": "/bit-crud/static/media/userLogo.3edff0c0.png",
+    "static/media/users.svg": "/bit-crud/static/media/users.bcdb0cac.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f9b4141.js",
+    "static/css/2.17e5ed98.chunk.css",
+    "static/js/2.ac53087f.chunk.js",
+    "static/css/main.c635cbb1.chunk.css",
+    "static/js/main.981fdf1e.chunk.js"
+  ]
+}
