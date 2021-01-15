@@ -1,0 +1,118 @@
+h2{
+    text-align: center;
+    margin-top: 10%;
+    margin-bottom: 8%;
+}
+.messageHide{
+  display: none;
+}
+
+.message{
+  position: absolute;
+  margin: 0 auto;
+  background-color: white;
+  width: 97.4%;
+  height: 60%;
+  z-index: 1;
+}
+.messageText{
+  color: #2fa69a;
+}
+.createPostContainer {
+    width: 800px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.inputTitle {
+    margin: 10px;
+    width: 380px;
+}
+
+.inputSubtitle{
+    margin: 10px;
+    width: 380px;
+}
+
+.inputImgUrl {
+    margin: 10px;
+    width: 380px;
+}
+
+.inputPostText {
+    margin: 10px;
+    width: 780px;
+}
+.saveButton{
+    float: right;
+    margin: 10px;
+    width: 20%;
+    height: 35px;
+    color: white;
+    font-weight: bolder;
+    border: none;
+    background-color: #2fa69a;
+    border-radius: 5px;
+}
+
+.switch {
+    margin: 10px;
+    position: relative;
+    display: inline-block;
+    width: 60px;
+    height: 30px;
+  }
+  
+  /* Hide default HTML checkbox */
+  .switch input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+  }
+  
+  /* The slider */
+  .slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 4px;
+    background-color: #ccc;
+    -webkit-transition: .4s;
+    transition: .4s;
+  }
+  
+  .slider:before {
+    position: absolute;
+    content: "";
+    height: 20px;
+    width: 20px;
+    left: 4px;
+    bottom: 3px;
+    background-color: white;
+    -webkit-transition: .4s;
+    transition: .4s;
+  }
+  
+  input:checked + .slider {
+    background-color: #2196F3;
+  }
+  
+  input:focus + .slider {
+    box-shadow: 0 0 1px #2196F3;
+  }
+  
+  input:checked + .slider:before {
+    -webkit-transform: translateX(26px);
+    -ms-transform: translateX(26px);
+    transform: translateX(26px);
+  }
+  
+  /* Rounded sliders */
+  .slider.round {
+    border-radius: 34px;
+  }
+  
+  .slider.round:before {
+    border-radius: 50%;
+  }

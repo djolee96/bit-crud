@@ -1,0 +1,25 @@
+.postPhoto {
+    height: 30px;
+    margin: 20px;
+}
+
+.textPhoto {
+    height: 30px;
+    margin: 20px;
+}
+
+.usersPhoto {
+    height: 30px;
+    margin: 20px;
+}
+
+.dashboard {
+    text-align: center;
+    border: lightgrey 4px solid;
+    box-sizing: border-box;
+    border-collapse: collapse;
+
+    &:nth-child(1) {
+        cursor: pointer;
+    }
+}
